@@ -24,7 +24,7 @@
 A new Flutter project.
 ##  Video
 
-https://github.com/MO-A7/Egyptian_SL/blob/main/Egyptian_SL.mp4
+https://drive.google.com/drive/folders/12DJ-AQ2bLKTtErDQd6rjvew2-uzHcPsu?usp=drive_link
 
 ## Getting Started
 
